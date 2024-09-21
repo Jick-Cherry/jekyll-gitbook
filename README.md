@@ -1,10 +1,13 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: 你好，远方的朋友
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+2024年9月21日，我在这里写下第一行字，建立这个博客的目的主要有三：
+1. 记录自己成长的历程和做过的项目
+2. 在这个国内本科生教育礼崩乐坏的时代为后人留下一些有用的东西
+3. 如果可以的话，希望这些工作能给我带来一些收益
 
 ## Demo
 
@@ -12,18 +15,13 @@ Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https:/
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
-## Why Jekyll with GitBook
+## About me
 
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
+我，樱桃，毕业于国内某不知名大学，目前是新人硬件工程师，同时也喜欢自己琢磨些软件的东西
 
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
+很喜欢哈工大机器人队的一句话：极限犹可突破，至臻亦不可止！
+
+所以让我们一起加油吧！
 
 ## How to Get Started
 
