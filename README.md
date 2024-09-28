@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 你好，远方的朋友
+title: 你好，朋友
 permalink: /
 ---
 
