@@ -1,67 +1,37 @@
 ---
-title: Tips, Warnings, and Dangers
-author: Tao He
-date: 2022-06-30
+title: 关于未来：保研、考研和就业
+author: Cherry
+date: 2024-12-30
 category: Jekyll
 layout: post
 ---
 
-This jekyll-theme supports tips, warnings, and dangers blocks and the style is referred
-from [the discord.js website][1].
+关于未来，每一个人都有自己的想法，因此，我无法告诉你哪一种更加正确，在我所认识的人当中，保研、考研到顶尖高校者有之，本科直接就业就拿到很高薪资者有之，但是，我唯一能告诉你的是，在任何一条路上，都只有苦乐自知。
 
-You could have the following [markdown attributes (supported by kramdown)][2]:
+也许有时间的时候，我会采访一些朋友们，但这实际上，并不能够代表选了同样的道路就能够获得同样的结果，时代在不断的变化，人与人的追求也并不相同。
 
-### Tips
+### 保研
 
-Using a `{: .block-tip}` attribute:
+如果你志在攀登学术高峰，那毫无疑问，保研和出国深造是你最好的选择。而如果你囊中羞涩，那保研几乎就是你唯一的选择。
 
-```markdown
-> ##### TIP
->
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
-{: .block-tip }
-```
+当你选择了保研这条道路，至少在某理的机械院，卷成绩就是你唯一的选择，不要只满足于顶尖的班级排名，将绩点卷到一个前无古人的高度（你得看到许多院校的分数已经基本卷到3.7+/4.0及以上了，你的对手是来自其他顶尖院校的卷王们）将会更有利于保研到更牛的学校。如果你还有多余的精力，那么也可以适当尝试竞赛巩固你的地位。
 
-> ##### TIP
->
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
-{: .block-tip }
+当然，以上论述建立在绩点占据总保研分数95%的评价机制上，当绩点评价方法出现了变化，你要学会顺应规则，至少在你有能力改变它之前。
 
-### Warnings
+### 考研
 
-Using a `{: .block-warning}` attribute:
+考研的本身，不也是对自己的做事能力的一种考验吗？
 
-```markdown
-> ##### WARNING
->
-> Be sure that you're familiar with things like async/await and object destructuring
-> before continuing, as we'll be making use of features like these.
-{: .block-warning }
-```
+### 求职
+我知道当下的就业形势相当严峻，所以有不少人选择上面两条路来暂时避免这一问题。但是，问题是不会随着逃避而消失的，我们这一代（指疫情之后的很长一段时间内的毕业生）终究要面对这一问题。实际上，我认识的近三代同学中，每一届都有拿到相当高薪酬offer的同学。因此，要解决这一问题，还是要改变看待问题的角度。
 
-> ##### WARNING
->
-> Be sure that you're familiar with things like async/await and object destructuring
-> before continuing, as we'll be making use of features like these.
-{: .block-warning }
+很遗憾，我不知道自己所走的道路是否正确，因此我也并不敢妄下论断。但目前为止，有两件事应该是一定没有问题的
+1. 增强自己的实践能力，参加研发或竞赛
+   1. 要注意，不要呆在舒适区，要做深做透，要有自己的思考
+   2. 如果实在没有思路，可以抄大佬的，但还是要保持思考，理解消化，否则面试中一定会露馅
+2. 申请实习，提升自己对工作这件事的认识
+    很遗憾，当时我对自己太没有信心，没有抓住机会
 
-### Dangers
+    到目前为止，我感触最深刻的一点是，工程师和学生的区别，是**对自己的工作产品负责**。做出来的东西，敢不敢给别人用，有没有风险，风险是否可控，是一个工程师是否可靠、是否有能力的标志。
 
-Using a `{: .block-danger}` attribute:
 
-```markdown
-> ##### DANGER
->
-> You cannot delete an ephemeral message.
-{: .block-danger }
-```
-
-> ##### DANGER
->
-> You cannot delete an ephemeral message.
-{: .block-danger }
-
-[1]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
-[2]: https://kramdown.gettalong.org/quickref.html#block-attributes
