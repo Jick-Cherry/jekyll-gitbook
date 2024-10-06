@@ -1,7 +1,7 @@
 ---
 title: 关于未来：保研、考研和就业
 author: Cherry
-date: 2024-12-30
+date: 2024-10-5
 category: Jekyll
 layout: post
 ---
