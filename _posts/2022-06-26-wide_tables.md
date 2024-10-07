@@ -1,36 +1,26 @@
 ---
-title: Wide tables
-author: Tao He
-date: 2022-06-26
+title: 附录一：推荐补充的课外知识
+author: Cherry
+date: 2024-10-4
 category: Jekyll
 layout: post
 ---
 
-A wide tables needs to be wrapped into a `div` with class `table-wrapper`
-to make sure it displayed as expected on mobile devices. For example,
+课内课程能够提供的知识是相当有限的，因此在这里提供一些补充知识，以供有余力的同学取用。
 
-```markdown
-<div class="table-wrapper" markdown="block">
+## 语言类
 
-|title1|title2|title3|title4|title5|title6|title7|title8|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
+1. C++进阶
+   1. C++高级特性及STL库
+   2. Cmake基本原理和使用方法
+   3. 数据结构与算法
+2. 建议学习一门第二语言方便进行快速开发验证，例如Python
+3. 如果有进入外企工作的打算，建议学习一门第二外语
 
-</div>
-```
+## 操作系统类
 
-Will be rendered as
+有时间的话，建议系统的学习一下Linux系统的使用和操作系统的基本知识
 
-<div class="table-wrapper" markdown="block">
+## 网络类
 
-|title1|title2|title3|title4|title5|title6|title7|title8|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-
-</div>
+同上（综上所述，似乎推荐了整个408，笑）
